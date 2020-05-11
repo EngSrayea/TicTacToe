@@ -13,6 +13,7 @@
 		BB5D6AA62468C85B009B8E2C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB5D6AA52468C85B009B8E2C /* Assets.xcassets */; };
 		BB5D6AA92468C85B009B8E2C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BB5D6AA82468C85B009B8E2C /* Preview Assets.xcassets */; };
 		BB5D6AAC2468C85B009B8E2C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BB5D6AAA2468C85B009B8E2C /* LaunchScreen.storyboard */; };
+		BB5D6AB42468D2E9009B8E2C /* PWChalk.ttf in Resources */ = {isa = PBXBuildFile; fileRef = BB5D6AB32468D2E9009B8E2C /* PWChalk.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		BB5D6AA82468C85B009B8E2C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BB5D6AAB2468C85B009B8E2C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BB5D6AAD2468C85B009B8E2C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BB5D6AB32468D2E9009B8E2C /* PWChalk.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = PWChalk.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				BB5D6A9F2468C84F009B8E2C /* AppDelegate.swift */,
 				BB5D6AA12468C84F009B8E2C /* SceneDelegate.swift */,
 				BB5D6AA32468C84F009B8E2C /* ContentView.swift */,
+				BB5D6AB32468D2E9009B8E2C /* PWChalk.ttf */,
 				BB5D6AA52468C85B009B8E2C /* Assets.xcassets */,
 				BB5D6AAA2468C85B009B8E2C /* LaunchScreen.storyboard */,
 				BB5D6AAD2468C85B009B8E2C /* Info.plist */,
@@ -134,6 +137,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BB5D6AAC2468C85B009B8E2C /* LaunchScreen.storyboard in Resources */,
+				BB5D6AB42468D2E9009B8E2C /* PWChalk.ttf in Resources */,
 				BB5D6AA92468C85B009B8E2C /* Preview Assets.xcassets in Resources */,
 				BB5D6AA62468C85B009B8E2C /* Assets.xcassets in Resources */,
 			);
